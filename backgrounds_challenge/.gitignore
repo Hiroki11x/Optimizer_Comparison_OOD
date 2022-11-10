@@ -1,0 +1,5 @@
+*/__pycache__
+*.gz
+bg_challenge
+nohup*
+wandb/

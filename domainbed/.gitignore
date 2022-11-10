@@ -1,0 +1,17 @@
+__pycache__
+domainbed/facebook.py
+
+domainbed/data/*
+train_output/*
+
+*.err
+*.out
+*.o*
+
+*.pth
+wandb/
+wandb/*
+
+domainbed/scripts/MNIST/
+
+.DS_Store

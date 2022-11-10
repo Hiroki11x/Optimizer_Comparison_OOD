@@ -1,0 +1,16 @@
+{
+    "batch_size": 32,
+    "class_balanced": "False",
+    "data_augmentation": "True",
+    "optimizer_name": "vanilla_sgd",
+    "lr": 0.001,
+    "momentum": 0.9,
+    "eps": 1e-8,
+    "alpha": 0.9,
+    "beta_1": 0.9,
+    "beta_2": 0.999,
+    "nonlinear_classifier": "False",
+    "resnet18": "False",
+    "resnet_dropout": 0.0,
+    "weight_decay": 0.0
+}
