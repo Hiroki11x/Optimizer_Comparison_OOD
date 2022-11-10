@@ -1,4 +1,4 @@
-# Empirical Study on Optimizer Selection for Out-of-Distribution Generalization (NeurIPS 2022 Workshop [DistShift](https://sites.google.com/view/distshift2022)) [Paper Link / OpenReview](https://openreview.net/forum?id=i1s663Cqt9)
+# Empirical Study on Optimizer Selection for Out-of-Distribution Generalization
 
 ![Screenshot 2022-07-14 at 2 51 49 PM](https://user-images.githubusercontent.com/8721858/201168624-cdc92939-25e4-465c-978d-8d9c41fc07d4.png)
 
@@ -30,3 +30,17 @@ As for the DomainBed, WILDS and Background Challenge implementations, we follow 
 - [DomainBed](https://github.com/facebookresearch/DomainBed)
 - [Background Challenge](https://github.com/MadryLab/backgrounds_challenge)
 - [WILDS](https://github.com/p-lambda/wilds)
+
+## Citation
+NeurIPS 2022 Workshop [DistShift](https://sites.google.com/view/distshift2022) Paper [Link / OpenReview](https://openreview.net/forum?id=i1s663Cqt9)
+
+```
+@inproceedings{
+naganuma2022empirical,
+title={Empirical Study on Optimizer Selection for Out-of-Distribution Generalization},
+author={Hiroki Naganuma and Kartik Ahuja and Ioannis Mitliagkas and Shiro Takagi and Tetsuya Motokawa and Rio Yokota and Kohta Ishikawa and Ikuro Sato},
+booktitle={NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications},
+year={2022},
+url={https://openreview.net/forum?id=i1s663Cqt9}
+}
+```
