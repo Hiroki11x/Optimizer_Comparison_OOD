@@ -48,7 +48,7 @@ note={}
 ```
 
 ## Paper authors
-- [Hiroki Naganuma]()
+- [Hiroki Naganuma](https://hiroki11x.github.io/)
 - [Kartik Ahuja](https://ahujak.github.io/)
 - [Shiro Takagi](https://t46.github.io/)
 - [Tetsuya Motokawa](https://github.com/mtkwT)
