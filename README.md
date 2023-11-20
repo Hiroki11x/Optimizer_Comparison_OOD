@@ -32,15 +32,29 @@ As for the DomainBed, WILDS and Background Challenge implementations, we follow 
 - [WILDS](https://github.com/p-lambda/wilds)
 
 ## Citation
-NeurIPS 2022 Workshop [DistShift](https://sites.google.com/view/distshift2022) Paper [Link / OpenReview](https://openreview.net/forum?id=i1s663Cqt9)
+TMLR (2023) / Paper [Link / OpenReview](https://openreview.net/forum?id=ipe0IMglFF)
 
 ```
-@inproceedings{
-naganuma2022empirical,
+@article{
+naganuma2023empirical,
 title={Empirical Study on Optimizer Selection for Out-of-Distribution Generalization},
-author={Hiroki Naganuma and Kartik Ahuja and Ioannis Mitliagkas and Shiro Takagi and Tetsuya Motokawa and Rio Yokota and Kohta Ishikawa and Ikuro Sato},
-booktitle={NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications},
-year={2022},
-url={https://openreview.net/forum?id=i1s663Cqt9}
+author={Hiroki Naganuma and Kartik Ahuja and Shiro Takagi and Tetsuya Motokawa and Rio Yokota and Kohta Ishikawa and Ikuro Sato and Ioannis Mitliagkas},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=ipe0IMglFF},
+note={}
 }
 ```
+
+## Paper authors
+- [Hiroki Naganuma]()
+- [Kartik Ahuja](https://ahujak.github.io/)
+- [Shiro Takagi](https://t46.github.io/)
+- [Tetsuya Motokawa](https://github.com/mtkwT)
+- [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/index.html)
+- [Kohta Ishikawa](https://dblp.org/pid/157/8482.html)
+- [Ikuro Sato](https://scholar.google.com/citations?user=WGKTs8sAAAAJ&hl=ja)
+- [Ioannis Mitliagkas](http://mitliagkas.github.io/)
+
+
